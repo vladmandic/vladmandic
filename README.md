@@ -19,6 +19,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=stream-rtsp&theme=dark&hide_border=true&bg_color=444444)](https://github.com/vladmandic/stream-rtsp)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=piclock&theme=dark&hide_border=true&bg_color=444444)](https://github.com/vladmandic/piclock)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=stocks&theme=dark&hide_border=true&bg_color=444444)](https://github.com/vladmandic/stocks)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=tfjs-utils&theme=dark&hide_border=true&bg_color=444444)](https://github.com/vladmandic/tfjs-utils)
 
 <br>
 
