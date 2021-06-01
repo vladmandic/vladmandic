@@ -1,4 +1,4 @@
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=vladmandic&count_private=true&show_icons=false&theme=dark&include_all_commits=true&hide_border=true&hide=prs,stars&bg_color=333333)](https://github.com/vladmandic/vladmandic)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=vladmandic&count_private=true&show_icons=true&theme=dark&include_all_commits=true&hide_border=true&hide=prs&bg_color=333333)](https://github.com/vladmandic/vladmandic)
 <a href="https://www.linkedin.com/in/cyan051/"><img src="linkedin.png" alt="linkedin" height="150"/></a>
 
 <br>
