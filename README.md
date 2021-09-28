@@ -20,9 +20,10 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=stream-rtsp&theme=dark&hide_border=true&bg_color=444444)](https://github.com/vladmandic/stream-rtsp)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=piclock&theme=dark&hide_border=true&bg_color=444444)](https://github.com/vladmandic/piclock)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=stocks&theme=dark&hide_border=true&bg_color=444444)](https://github.com/vladmandic/stocks)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=tfjs-utils&theme=dark&hide_border=true&bg_color=444444)](https://github.com/vladmandic/tfjs-utils)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=human-vrm&theme=dark&hide_border=true&bg_color=444444)](https://github.com/vladmandic/human-vrm)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=wasm-assemblyscript&theme=dark&hide_border=true&bg_color=444444)](https://github.com/vladmandic/wasm-assemblyscript)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=tfjs-utils&theme=dark&hide_border=true&bg_color=444444)](https://github.com/vladmandic/tfjs-utils)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=tf-cnn-classification&theme=dark&hide_border=true&bg_color=444444)](https://github.com/vladmandic/tf-cnn-classification)
 
 <br>
 
