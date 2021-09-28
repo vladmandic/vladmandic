@@ -28,10 +28,10 @@
 
 ### ML Model Ports
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=blazepose&theme=dark&hide_border=true&bg_color=444444)](https://github.com/vladmandic/blazepose)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=movenet&theme=dark&hide_border=true&bg_color=444444)](https://github.com/vladmandic/movenet)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=efficientpose&theme=dark&hide_border=true&bg_color=444444)](https://github.com/vladmandic/efficientpose)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=nudenet&theme=dark&hide_border=true&bg_color=444444)](https://github.com/vladmandic/nudenet)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=mb3-centernet&theme=dark&hide_border=true&bg_color=444444)](https://github.com/vladmandic/mb3-centernet)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=nanodet&theme=dark&hide_border=true&bg_color=444444)](https://github.com/vladmandic/nanodet)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=nudenet&theme=dark&hide_border=true&bg_color=444444)](https://github.com/vladmandic/nudenet)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=movenet&theme=dark&hide_border=true&bg_color=444444)](https://github.com/vladmandic/movenet)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=efficientpose&theme=dark&hide_border=true&bg_color=444444)](https://github.com/vladmandic/efficientpose)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=blazepose&theme=dark&hide_border=true&bg_color=444444)](https://github.com/vladmandic/blazepose)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=anti-spoofing&theme=dark&hide_border=true&bg_color=444444)](https://github.com/vladmandic/anti-spoofing)
