@@ -23,12 +23,13 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=human-vrm&theme=dark&hide_border=true&bg_color=444444)](https://github.com/vladmandic/human-vrm)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=wasm-assemblyscript&theme=dark&hide_border=true&bg_color=444444)](https://github.com/vladmandic/wasm-assemblyscript)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=tfjs-utils&theme=dark&hide_border=true&bg_color=444444)](https://github.com/vladmandic/tfjs-utils)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=tf-cnn-classification&theme=dark&hide_border=true&bg_color=444444)](https://github.com/vladmandic/tf-cnn-classification)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=tfjs&theme=dark&hide_border=true&bg_color=444444)](https://github.com/vladmandic/tfjs)
 
 <br>
 
 ### ML Model Ports
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=tf-cnn-classification&theme=dark&hide_border=true&bg_color=444444)](https://github.com/vladmandic/tf-cnn-classification)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=nudenet&theme=dark&hide_border=true&bg_color=444444)](https://github.com/vladmandic/nudenet)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=mb3-centernet&theme=dark&hide_border=true&bg_color=444444)](https://github.com/vladmandic/mb3-centernet)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=nanodet&theme=dark&hide_border=true&bg_color=444444)](https://github.com/vladmandic/nanodet)
