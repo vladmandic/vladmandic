@@ -8,7 +8,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=human&theme=dark&hide_border=true&bg_color=444444)](https://github.com/vladmandic/human)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=human-models&theme=dark&hide_border=true&bg_color=444444)](https://github.com/vladmandic/human-models)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=human-motion&theme=dark&hide_border=true&bg_color=444444)](https://github.com/vladmandic/human-motion)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=human-avatar&theme=dark&hide_border=true&bg_color=444444)](https://github.com/vladmandic/human-avatar)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=human-vrm&theme=dark&hide_border=true&bg_color=444444)](https://github.com/vladmandic/human-vrm)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=human-next&theme=dark&hide_border=true&bg_color=444444)](https://github.com/vladmandic/human-next)
 
