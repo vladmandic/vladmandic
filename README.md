@@ -18,6 +18,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=face-api&theme=dark&hide_border=true&bg_color=444444)](https://github.com/vladmandic/face-api)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=pigallery&theme=dark&hide_border=true&bg_color=444444)](https://github.com/vladmandic/pigallery)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=human-pose&theme=dark&hide_border=true&bg_color=444444)](https://github.com/vladmandic/human-pose)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=weather&theme=dark&hide_border=true&bg_color=444444)](https://github.com/vladmandic/weather)
 
 ### Development Tools
 
