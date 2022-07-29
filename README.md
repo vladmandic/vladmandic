@@ -19,6 +19,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=pigallery&theme=dark&hide_border=true&bg_color=444444)](https://github.com/vladmandic/pigallery)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=human-pose&theme=dark&hide_border=true&bg_color=444444)](https://github.com/vladmandic/human-pose)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=weather&theme=dark&hide_border=true&bg_color=444444)](https://github.com/vladmandic/weather)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=solar-system&theme=dark&hide_border=true&bg_color=444444)](https://github.com/vladmandic/solar-system)
 
 ### Development Tools
 
@@ -53,3 +54,4 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=anti-spoofing&theme=dark&hide_border=true&bg_color=444444)](https://github.com/vladmandic/anti-spoofing)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=dbface&theme=dark&hide_border=true&bg_color=444444)](https://github.com/vladmandic/dbface)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=cartoonize&theme=dark&hide_border=true&bg_color=444444)](https://github.com/vladmandic/cartoonize)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=anime&theme=dark&hide_border=true&bg_color=444444)](https://github.com/vladmandic/anime)
