@@ -55,3 +55,4 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=dbface&theme=dark&hide_border=true&bg_color=444444)](https://github.com/vladmandic/dbface)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=cartoonize&theme=dark&hide_border=true&bg_color=444444)](https://github.com/vladmandic/cartoonize)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=anime&theme=dark&hide_border=true&bg_color=444444)](https://github.com/vladmandic/anime)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=insightface&theme=dark&hide_border=true&bg_color=444444)](https://github.com/vladmandic/insightface)
