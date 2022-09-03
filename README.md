@@ -1,6 +1,6 @@
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=vladmandic&count_private=true&show_icons=true&theme=dark&include_all_commits=true&hide_border=true&hide=prs&bg_color=31313A)](https://github.com/vladmandic/vladmandic)
 <a href="https://www.linkedin.com/in/cyan051/"><img src="linkedin.png" alt="linkedin" height="170"/></a>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vladmandic&hide=JavaScript,HTML,CSS&layout=compact&theme=dark&hide_border=true&bg_color=31313A&langs_count=8)](https://github.com/vladmandic/vladmandic)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vladmandic&hide=JavaScript,HTML,CSS,ipynb&layout=compact&theme=dark&hide_border=true&bg_color=31313A&langs_count=8)](https://github.com/vladmandic/vladmandic)
 [![Activity graph](https://activity-graph.herokuapp.com/graph?username=vladmandic&theme=xcode&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br>
@@ -56,3 +56,4 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=cartoonize&theme=dark&hide_border=true&bg_color=444444)](https://github.com/vladmandic/cartoonize)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=anime&theme=dark&hide_border=true&bg_color=444444)](https://github.com/vladmandic/anime)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=insightface&theme=dark&hide_border=true&bg_color=444444)](https://github.com/vladmandic/insightface)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=stable-diffusion&theme=dark&hide_border=true&bg_color=444444)](https://github.com/vladmandic/stable-diffusion)
