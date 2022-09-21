@@ -10,14 +10,17 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=human&theme=dark&hide_border=true&bg_color=444444)](https://github.com/vladmandic/human)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=human-models&theme=dark&hide_border=true&bg_color=444444)](https://github.com/vladmandic/human-models)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=human-motion&theme=dark&hide_border=true&bg_color=444444)](https://github.com/vladmandic/human-motion)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=human-vrm&theme=dark&hide_border=true&bg_color=444444)](https://github.com/vladmandic/human-vrm)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=human-three-vrm&theme=dark&hide_border=true&bg_color=444444)](https://github.com/vladmandic/human-three-vrm)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=human-bjs-vrm&theme=dark&hide_border=true&bg_color=444444)](https://github.com/vladmandic/human-bjs-vrm)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=human-match&theme=dark&hide_border=true&bg_color=444444)](https://github.com/vladmandic/human-match)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=human-next&theme=dark&hide_border=true&bg_color=444444)](https://github.com/vladmandic/human-next)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=human-electron&theme=dark&hide_border=true&bg_color=444444)](https://github.com/vladmandic/human-electron)
 
 ### Other Projects
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=face-api&theme=dark&hide_border=true&bg_color=444444)](https://github.com/vladmandic/face-api)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=pigallery&theme=dark&hide_border=true&bg_color=444444)](https://github.com/vladmandic/pigallery)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=human-pose&theme=dark&hide_border=true&bg_color=444444)](https://github.com/vladmandic/human-pose)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=body-pose&theme=dark&hide_border=true&bg_color=444444)](https://github.com/vladmandic/body-pose)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=weather&theme=dark&hide_border=true&bg_color=444444)](https://github.com/vladmandic/weather)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=solar-system&theme=dark&hide_border=true&bg_color=444444)](https://github.com/vladmandic/solar-system)
 
