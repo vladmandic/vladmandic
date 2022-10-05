@@ -23,6 +23,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=body-pose&theme=dark&hide_border=true&bg_color=444466)](https://github.com/vladmandic/body-pose)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=weather&theme=dark&hide_border=true&bg_color=444466)](https://github.com/vladmandic/weather)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=solar-system&theme=dark&hide_border=true&bg_color=444466)](https://github.com/vladmandic/solar-system)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=chess&theme=dark&hide_border=true&bg_color=444466)](https://github.com/vladmandic/chess)
 
 ### Development Tools
 
