@@ -22,8 +22,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=pigallery&theme=dark&hide_border=true&bg_color=444466)](https://github.com/vladmandic/pigallery)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=body-pose&theme=dark&hide_border=true&bg_color=444466)](https://github.com/vladmandic/body-pose)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=weather&theme=dark&hide_border=true&bg_color=444466)](https://github.com/vladmandic/weather)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=solar-system&theme=dark&hide_border=true&bg_color=444466)](https://github.com/vladmandic/solar-system)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=chess&theme=dark&hide_border=true&bg_color=444466)](https://github.com/vladmandic/chess)
 
 ### Development Tools
 
@@ -32,19 +30,23 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=piacme&theme=dark&hide_border=true&bg_color=664444)](https://github.com/vladmandic/piacme)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=pilogger&theme=dark&hide_border=true&bg_color=664444)](https://github.com/vladmandic/pilogger)
 
-### TensorFlow Port & Tools
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=tfjs&theme=dark&hide_border=true&bg_color=444444)](https://github.com/vladmandic/tfjs)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=tfjs-utils&theme=dark&hide_border=true&bg_color=444444)](https://github.com/vladmandic/tfjs-utils)
-
 ### Minor Projects & Tests
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=stream-rtsp&theme=dark&hide_border=true&bg_color=666644)](https://github.com/vladmandic/stream-rtsp)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=piclock&theme=dark&hide_border=true&bg_color=666644)](https://github.com/vladmandic/piclock)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=stocks&theme=dark&hide_border=true&bg_color=666644)](https://github.com/vladmandic/stocks)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=wasm-assemblyscript&theme=dark&hide_border=true&bg_color=666644)](https://github.com/vladmandic/wasm-assemblyscript)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=solar-system&theme=dark&hide_border=true&bg_color=666644)](https://github.com/vladmandic/solar-system)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=chess&theme=dark&hide_border=true&bg_color=666644)](https://github.com/vladmandic/chess)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=snaps&theme=dark&hide_border=true&bg_color=666644)](https://github.com/vladmandic/snaps)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=fitgirl&theme=dark&hide_border=true&bg_color=666644)](https://github.com/vladmandic/fitgirl)
 
 <br>
+
+### TensorFlow Port & Tools
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=tfjs&theme=dark&hide_border=true&bg_color=444444)](https://github.com/vladmandic/tfjs)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=tfjs-utils&theme=dark&hide_border=true&bg_color=444444)](https://github.com/vladmandic/tfjs-utils)
 
 ### ML Model Ports
 
