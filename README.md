@@ -29,6 +29,8 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=build&theme=dark&hide_border=true&bg_color=664444)](https://github.com/vladmandic/build)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=piacme&theme=dark&hide_border=true&bg_color=664444)](https://github.com/vladmandic/piacme)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=pilogger&theme=dark&hide_border=true&bg_color=664444)](https://github.com/vladmandic/pilogger)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=gitstats&theme=dark&hide_border=true&bg_color=664444)](https://github.com/vladmandic/gitstats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=template&theme=dark&hide_border=true&bg_color=664444)](https://github.com/vladmandic/template)
 
 ### Minor Projects & Tests
 
