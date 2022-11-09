@@ -18,6 +18,7 @@
 
 ### Other Projects
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=holistic&theme=dark&hide_border=true&bg_color=444466)](https://github.com/vladmandic/holistic)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=face-api&theme=dark&hide_border=true&bg_color=444466)](https://github.com/vladmandic/face-api)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=pigallery&theme=dark&hide_border=true&bg_color=444466)](https://github.com/vladmandic/pigallery)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=body-pose&theme=dark&hide_border=true&bg_color=444466)](https://github.com/vladmandic/body-pose)
