@@ -65,5 +65,5 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=cartoonize&theme=dark&hide_border=true&bg_color=664466)](https://github.com/vladmandic/cartoonize)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=anime&theme=dark&hide_border=true&bg_color=664466)](https://github.com/vladmandic/anime)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=insightface&theme=dark&hide_border=true&bg_color=664466)](https://github.com/vladmandic/insightface)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=stable-diffusion&theme=dark&hide_border=true&bg_color=664466)](https://github.com/vladmandic/stable-diffusion)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=generative-art&theme=dark&hide_border=true&bg_color=664466)](https://github.com/vladmandic/generative-art)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=segmentation&theme=dark&hide_border=true&bg_color=664466)](https://github.com/vladmandic/segmentation)
