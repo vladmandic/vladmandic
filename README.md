@@ -20,9 +20,9 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=holistic&theme=dark&hide_border=true&bg_color=444466)](https://github.com/vladmandic/holistic)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=face-api&theme=dark&hide_border=true&bg_color=444466)](https://github.com/vladmandic/face-api)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=pigallery&theme=dark&hide_border=true&bg_color=444466)](https://github.com/vladmandic/pigallery)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=body-pose&theme=dark&hide_border=true&bg_color=444466)](https://github.com/vladmandic/body-pose)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=weather&theme=dark&hide_border=true&bg_color=444466)](https://github.com/vladmandic/weather)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=pigallery&theme=dark&hide_border=true&bg_color=444466)](https://github.com/vladmandic/pigallery)
 
 ### Development Tools
 
@@ -66,6 +66,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=anime&theme=dark&hide_border=true&bg_color=664466)](https://github.com/vladmandic/anime)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=insightface&theme=dark&hide_border=true&bg_color=664466)](https://github.com/vladmandic/insightface)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=segmentation&theme=dark&hide_border=true&bg_color=664466)](https://github.com/vladmandic/segmentation)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=rife&theme=dark&hide_border=true&bg_color=664466)](https://github.com/vladmandic/rife)
 
 ### Stable Diffusion
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=automatic&theme=dark&hide_border=true&bg_color=773344)](https://github.com/vladmandic/automatic)
