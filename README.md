@@ -16,6 +16,17 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=human-next&theme=dark&hide_border=true&bg_color=446644)](https://github.com/vladmandic/human-next)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=human-electron&theme=dark&hide_border=true&bg_color=446644)](https://github.com/vladmandic/human-electron)
 
+### SD.Net
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=automatic&theme=dark&hide_border=true&bg_color=773344)](https://github.com/vladmandic/automatic)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=sd-extension-system-info&theme=dark&hide_border=true&bg_color=773344)](https://github.com/vladmandic/sd-extension-system-info)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=sd-extension-chainner&theme=dark&hide_border=true&bg_color=773344)](https://github.com/vladmandic/sd-extension-chainner)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=sd-extension-nudenet&theme=dark&hide_border=true&bg_color=773344)](https://github.com/vladmandic/sd-extension-nudenet)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=sd-extension-rembg&theme=dark&hide_border=true&bg_color=773344)](https://github.com/vladmandic/sd-extension-rembg)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=sd-extension-promptgen&theme=dark&hide_border=true&bg_color=773344)](https://github.com/vladmandic/sd-extension-promptgen)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=sd-extension-steps-animation&theme=dark&hide_border=true&bg_color=773344)](https://github.com/vladmandic/sd-extension-steps-animation)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=sd-extension-aesthetic-scorer&theme=dark&hide_border=true&bg_color=773344)](https://github.com/vladmandic/sd-extension-aesthetic-scorer)
+
 ### Other Projects
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=holistic&theme=dark&hide_border=true&bg_color=444466)](https://github.com/vladmandic/holistic)
@@ -67,6 +78,3 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=insightface&theme=dark&hide_border=true&bg_color=664466)](https://github.com/vladmandic/insightface)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=segmentation&theme=dark&hide_border=true&bg_color=664466)](https://github.com/vladmandic/segmentation)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=rife&theme=dark&hide_border=true&bg_color=664466)](https://github.com/vladmandic/rife)
-
-### Stable Diffusion
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=automatic&theme=dark&hide_border=true&bg_color=773344)](https://github.com/vladmandic/automatic)
