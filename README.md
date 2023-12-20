@@ -16,7 +16,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=human-next&theme=dark&hide_border=true&bg_color=446644)](https://github.com/vladmandic/human-next)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=human-electron&theme=dark&hide_border=true&bg_color=446644)](https://github.com/vladmandic/human-electron)
 
-### SD.Net
+### **SD.Next** Project
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=automatic&theme=dark&hide_border=true&bg_color=773344)](https://github.com/vladmandic/automatic)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=sd-extension-system-info&theme=dark&hide_border=true&bg_color=773344)](https://github.com/vladmandic/sd-extension-system-info)
