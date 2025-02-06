@@ -5,6 +5,17 @@
 
 <br>
 
+### **SD.Next** Project
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=sdnext&theme=dark&hide_border=true&bg_color=773344)](https://github.com/vladmandic/sdnext)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=sd-extension-system-info&theme=dark&hide_border=true&bg_color=773344)](https://github.com/vladmandic/sd-extension-system-info)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=sd-extension-chainner&theme=dark&hide_border=true&bg_color=773344)](https://github.com/vladmandic/sd-extension-chainner)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=sd-extension-nudenet&theme=dark&hide_border=true&bg_color=773344)](https://github.com/vladmandic/sd-extension-nudenet)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=sd-extension-rembg&theme=dark&hide_border=true&bg_color=773344)](https://github.com/vladmandic/sd-extension-rembg)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=sd-extension-promptgen&theme=dark&hide_border=true&bg_color=773344)](https://github.com/vladmandic/sd-extension-promptgen)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=sd-extension-steps-animation&theme=dark&hide_border=true&bg_color=773344)](https://github.com/vladmandic/sd-extension-steps-animation)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=sd-extension-aesthetic-scorer&theme=dark&hide_border=true&bg_color=773344)](https://github.com/vladmandic/sd-extension-aesthetic-scorer)
+
 ### **Human** Project
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=human&theme=dark&hide_border=true&bg_color=446644)](https://github.com/vladmandic/human)
@@ -15,17 +26,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=human-match&theme=dark&hide_border=true&bg_color=446644)](https://github.com/vladmandic/human-match)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=human-next&theme=dark&hide_border=true&bg_color=446644)](https://github.com/vladmandic/human-next)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=human-electron&theme=dark&hide_border=true&bg_color=446644)](https://github.com/vladmandic/human-electron)
-
-### **SD.Next** Project
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=automatic&theme=dark&hide_border=true&bg_color=773344)](https://github.com/vladmandic/automatic)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=sd-extension-system-info&theme=dark&hide_border=true&bg_color=773344)](https://github.com/vladmandic/sd-extension-system-info)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=sd-extension-chainner&theme=dark&hide_border=true&bg_color=773344)](https://github.com/vladmandic/sd-extension-chainner)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=sd-extension-nudenet&theme=dark&hide_border=true&bg_color=773344)](https://github.com/vladmandic/sd-extension-nudenet)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=sd-extension-rembg&theme=dark&hide_border=true&bg_color=773344)](https://github.com/vladmandic/sd-extension-rembg)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=sd-extension-promptgen&theme=dark&hide_border=true&bg_color=773344)](https://github.com/vladmandic/sd-extension-promptgen)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=sd-extension-steps-animation&theme=dark&hide_border=true&bg_color=773344)](https://github.com/vladmandic/sd-extension-steps-animation)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=sd-extension-aesthetic-scorer&theme=dark&hide_border=true&bg_color=773344)](https://github.com/vladmandic/sd-extension-aesthetic-scorer)
 
 ### Other Projects
 
@@ -42,7 +42,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=piacme&theme=dark&hide_border=true&bg_color=664444)](https://github.com/vladmandic/piacme)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=pilogger&theme=dark&hide_border=true&bg_color=664444)](https://github.com/vladmandic/pilogger)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=gitstats&theme=dark&hide_border=true&bg_color=664444)](https://github.com/vladmandic/gitstats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=template&theme=dark&hide_border=true&bg_color=664444)](https://github.com/vladmandic/template)
 
 ### Minor Projects & Tests
 
@@ -56,25 +55,3 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=fitgirl&theme=dark&hide_border=true&bg_color=666644)](https://github.com/vladmandic/fitgirl)
 
 <br>
-
-### TensorFlow Port & Tools
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=tfjs&theme=dark&hide_border=true&bg_color=444444)](https://github.com/vladmandic/tfjs)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=tfjs-utils&theme=dark&hide_border=true&bg_color=444444)](https://github.com/vladmandic/tfjs-utils)
-
-### ML Model Ports
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=tf-cnn-classification&theme=dark&hide_border=true&bg_color=664466)](https://github.com/vladmandic/tf-cnn-classification)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=nudenet&theme=dark&hide_border=true&bg_color=664466)](https://github.com/vladmandic/nudenet)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=mb3-centernet&theme=dark&hide_border=true&bg_color=664466)](https://github.com/vladmandic/mb3-centernet)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=nanodet&theme=dark&hide_border=true&bg_color=664466)](https://github.com/vladmandic/nanodet)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=movenet&theme=dark&hide_border=true&bg_color=664466)](https://github.com/vladmandic/movenet)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=efficientpose&theme=dark&hide_border=true&bg_color=664466)](https://github.com/vladmandic/efficientpose)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=blazepose&theme=dark&hide_border=true&bg_color=664466)](https://github.com/vladmandic/blazepose)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=anti-spoofing&theme=dark&hide_border=true&bg_color=664466)](https://github.com/vladmandic/anti-spoofing)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=dbface&theme=dark&hide_border=true&bg_color=664466)](https://github.com/vladmandic/dbface)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=cartoonize&theme=dark&hide_border=true&bg_color=664466)](https://github.com/vladmandic/cartoonize)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=anime&theme=dark&hide_border=true&bg_color=664466)](https://github.com/vladmandic/anime)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=insightface&theme=dark&hide_border=true&bg_color=664466)](https://github.com/vladmandic/insightface)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=segmentation&theme=dark&hide_border=true&bg_color=664466)](https://github.com/vladmandic/segmentation)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=rife&theme=dark&hide_border=true&bg_color=664466)](https://github.com/vladmandic/rife)
