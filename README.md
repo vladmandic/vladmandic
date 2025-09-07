@@ -8,10 +8,11 @@
 ### **SD.Next** Project
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=sdnext&theme=dark&hide_border=true&bg_color=773344)](https://github.com/vladmandic/sdnext)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=sd-extension-system-info&theme=dark&hide_border=true&bg_color=773344)](https://github.com/vladmandic/sd-extension-system-info)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=sd-samples&theme=dark&hide_border=true&bg_color=773344)](https://github.com/vladmandic/sd-samples)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=sd-samples&theme=dark&hide_border=true&bg_color=773344)](https://github.com/vladmandic/sd-samples)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=sd-extension-chainner&theme=dark&hide_border=true&bg_color=773344)](https://github.com/vladmandic/sd-extension-chainner)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=sd-extension-rembg&theme=dark&hide_border=true&bg_color=773344)](https://github.com/vladmandic/sd-extension-rembg)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=sd-extension-system-info&theme=dark&hide_border=true&bg_color=773344)](https://github.com/vladmandic/sd-extension-system-info)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=sd-extension-nudenet&theme=dark&hide_border=true&bg_color=773344)](https://github.com/vladmandic/sd-extension-nudenet)
 
 ### **Human** Project
