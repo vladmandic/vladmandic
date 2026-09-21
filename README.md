@@ -1,6 +1,5 @@
-<a href="https://www.linkedin.com/in/cyan051/"><img src="linkedin.png" alt="linkedin" height="170"/></a><br>
-
 [![GitHub stats](https://github-stats-extended.vercel.app/api?username=vladmandic&count_private=true&show_icons=true&theme=dark&include_all_commits=true&hide_border=true&hide=prs&bg_color=31313A)](https://github.com/vladmandic/vladmandic)
+<a href="https://www.linkedin.com/in/cyan051/"><img src="linkedin.png" alt="linkedin" height="170"/></a>
 [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=vladmandic&hide=JavaScript,HTML,CSS,ipynb&layout=compact&theme=dark&hide_border=true&bg_color=31313A&langs_count=8)](https://github.com/vladmandic/vladmandic)
 
 <br>
